@@ -1,0 +1,2 @@
+# PusheensBakingAdventure
+This is my final project for Intro to Computer Science, Spring 2018. This game is a Super Mario-style game with Pusheen, a gray cat, as the main character. In each stage, Pusheen will be collecting a specific number of food items that are required to make baked goods. Once every food item is obtained, Pusheen can move on to the next stage. However, throughout the game, Pusheen needs to be careful about avoiding trash items (bones, cans, etc) otherwise the game would end.
