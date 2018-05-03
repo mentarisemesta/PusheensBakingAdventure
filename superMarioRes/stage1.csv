@@ -1,0 +1,17 @@
+Mario,50,50,39,583,superMarioRes/PusheenVertical.png,1
+Butter,350,50,35,583,superMarioRes/Butter.png,1
+Butter,150,50,35,583,superMarioRes/Butter.png,1
+Butter,50,50,35,583,superMarioRes/Butter.png,1
+Butter,250,50,35,583,superMarioRes/Butter.png,1
+Flour,250,50,50,583,superMarioRes/Flour.png,1
+Flour,450,50,50,583,superMarioRes/Flour.png,1
+Flour,550,50,50,583,superMarioRes/Flour.png,1
+Sugar,400,800,60,583,superMarioRes/Sugar.png,1	
+Sugar,480,320,60,583,superMarioRes/Sugar.png,1
+Platform,1000,150,200,52,superMarioRes/Cloud.png	
+Platform,800,350,200,52,superMarioRes/Cloud.png	
+Platform,700,550,200,52,superMarioRes/Cloud.png	
+Platform,400,100,200,52,superMarioRes/Cloud.png	
+Trash,480,50,40,583,superMarioRes/Bone.png,1
+Trash,600,50,40,583,superMarioRes/Bone.png,1
+End	2000					
